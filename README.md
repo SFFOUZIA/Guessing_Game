@@ -1,2 +1,2 @@
 # Guessing_Game
-Created New game usimg python
+Created New game using python
